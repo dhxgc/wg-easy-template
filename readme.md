@@ -58,3 +58,5 @@ services:
     devices:
     - /dev/net/tun:/dev/net/tun
 ```
+
+5. Вводим `docker-compose up -d`. Смотрим, потом заходим, любуемся.
