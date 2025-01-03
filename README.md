@@ -1,5 +1,6 @@
 > Источники: 
 > [w0rng/amnezia-wg-easy: The easiest way to run WireGuard VPN + Web-based Admin UI.](https://github.com/w0rng/amnezia-wg-easy?tab=readme-ov-file) - здесь же про пароль, `docker-compose`
+> 
 > [wg-easy/wg-easy: The easiest way to run WireGuard VPN + Web-based Admin UI.](https://github.com/wg-easy/wg-easy) - это уже про обычный `Wireguard`
 
 ---
