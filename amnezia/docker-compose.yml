@@ -10,8 +10,8 @@ services:
     volumes:
       - etc_wireguard:/etc/wireguard
     ports:
-      - "15558:15558/udp"
-      - "34344:34344/tcp"
+      - "port:port/udp" #WG PORT
+      - "port:port/tcp" #WEB UI PORT
     restart: unless-stopped
     cap_add:
       - NET_ADMIN
